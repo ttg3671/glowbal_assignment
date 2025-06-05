@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "IKEA"
+  },
+  {
+    "id": 2,
+    "name": "Domino's"
+  },
+  {
+    "id": 3,
+    "name": "KPMG"
+  },
+  {
+    "id": 4,
+    "name": "Bajaj"
+  },
+  {
+    "id": 5,
+    "name": "Vodafone"
+  }
+]
