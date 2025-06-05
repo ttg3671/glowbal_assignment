@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "position": "CTO at JobGet",
+    "testimonial": "Appinventiv has been a fantastic tech partner. They deeply understand the product vision and bring strong execution.",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "John Miller",
+    "position": "Product Manager at Adidas",
+    "testimonial": "The team helped us scale quickly while maintaining high code quality. Their commitment is impressive.",
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "name": "Emily Carter",
+    "position": "CEO at Fintech Co",
+    "testimonial": "They delivered exactly what we envisioned, and more. The design and development were on point.",
+    "rating": 4.9
+  }
+]
