@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Mobile App Development",
+    "description": "Custom mobile solutions for iOS and Android that drive engagement and ROI.",
+    "icon": "/icons/mobile-app.svg"
+  },
+  {
+    "id": 2,
+    "title": "Web Development",
+    "description": "Scalable, secure, and responsive web apps tailored to your business needs."
+  },
+  {
+    "id": 3,
+    "title": "UI/UX Design",
+    "description": "Intuitive and engaging designs that create outstanding digital experiences."
+  },
+  {
+    "id": 4,
+    "title": "Blockchain Development",
+    "description": "Decentralized apps and smart contracts built on Ethereum, Hyperledger, and more."
+  },
+  {
+    "id": 5,
+    "title": "AI & ML Solutions",
+    "description": "AI-driven solutions to automate, predict, and optimize business processes."
+  }
+]
