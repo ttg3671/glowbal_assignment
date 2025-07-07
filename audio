@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Song 1",
+    "social_media": {
+      "instagram": "https://instagram.com/sample1",
+      "facebook": "https://facebook.com/sample1"
+    },
+    "audio_file": "https://raw.githubusercontent.com/rafaelreis-hotmart/Audio-Sample-files/master/sample.mp3",
+    "links": [
+      "https://boolywood.hunagama.com"
+    ],
+    "logo_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/black-white-city.jpg",
+    "bg_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1421789665209-c9b2a435e3dc.jpg",
+    "date": "2025-07-07",
+    "artists": ["Artist A", "Artist B"]
+  },
+  {
+    "id": 2,
+    "title": "Song 2",
+    "social_media": {
+      "instagram": "https://instagram.com/sample2",
+      "facebook": "https://facebook.com/sample2"
+    },
+    "audio_file": "https://raw.githubusercontent.com/rafaelreis-hotmart/Audio-Sample-files/master/sample.mp3",
+    "links": [
+      "https://boolywood.hunagama.com"
+    ],
+    "logo_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/black-white-city.jpg",
+    "bg_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1421789665209-c9b2a435e3dc.jpg",
+    "date": "2025-07-06",
+    "artists": ["Artist C"]
+  },
+  {
+    "id": 3,
+    "title": "Song 3",
+    "social_media": {
+      "instagram": "https://instagram.com/sample3",
+      "facebook": "https://facebook.com/sample3"
+    },
+    "audio_file": "https://raw.githubusercontent.com/rafaelreis-hotmart/Audio-Sample-files/master/sample2.mp3",
+    "links": [
+      "https://boolywood.hunagama.com"
+    ],
+    "logo_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/black-white-city.jpg",
+    "bg_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1421789665209-c9b2a435e3dc.jpg",
+    "date": "2025-07-05",
+    "artists": ["Artist D", "Artist E"]
+  },
+  {
+    "id": 4,
+    "title": "Song 4",
+    "social_media": {
+      "instagram": "https://instagram.com/sample4",
+      "facebook": "https://facebook.com/sample4"
+    },
+    "audio_file": "https://raw.githubusercontent.com/rafaelreis-hotmart/Audio-Sample-files/master/sample2.mp3",
+    "links": [
+      "https://boolywood.hunagama.com"
+    ],
+    "logo_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/black-white-city.jpg",
+    "bg_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1421789665209-c9b2a435e3dc.jpg",
+    "date": "2025-07-04",
+    "artists": ["Artist F"]
+  },
+  {
+    "id": 5,
+    "title": "Song 5",
+    "social_media": {
+      "instagram": "https://instagram.com/sample5",
+      "facebook": "https://facebook.com/sample5"
+    },
+    "audio_file": "https://raw.githubusercontent.com/rafaelreis-hotmart/Audio-Sample-files/master/sample.mp3",
+    "links": [
+      "https://boolywood.hunagama.com"
+    ],
+    "logo_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/black-white-city.jpg",
+    "bg_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1421789665209-c9b2a435e3dc.jpg",
+    "date": "2025-07-03",
+    "artists": ["Artist G", "Artist H"]
+  }
+]
