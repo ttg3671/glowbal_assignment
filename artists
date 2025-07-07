@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "artist_name": "Artist A",
+    "image": "https://i.ibb.co/TMgxDbRd/zayn.jpg"
+  },
+  {
+    "id": 2,
+    "artist_name": "Artist B",
+    "image": "https://i.ibb.co/TMgxDbRd/zayn.jpg"
+  },
+  {
+    "id": 3,
+    "artist_name": "Artist C",
+    "image": "https://i.ibb.co/TMgxDbRd/zayn.jpg"
+  },
+  {
+    "id": 4,
+    "artist_name": "Artist D",
+    "image": "https://i.ibb.co/TMgxDbRd/zayn.jpg"
+  },
+  {
+    "id": 5,
+    "artist_name": "Artist E",
+    "image": "https://i.ibb.co/TMgxDbRd/zayn.jpg"
+  },
+  {
+    "id": 6,
+    "artist_name": "Artist F",
+    "image": "https://i.ibb.co/TMgxDbRd/zayn.jpg"
+  },
+  {
+    "id": 7,
+    "artist_name": "Artist G",
+    "image": "https://i.ibb.co/TMgxDbRd/zayn.jpg"
+  },
+  {
+    "id": 8,
+    "artist_name": "Artist H",
+    "image": "https://i.ibb.co/TMgxDbRd/zayn.jpg"
+  },
+  {
+    "id": 9,
+    "artist_name": "Artist I",
+    "image": "https://i.ibb.co/TMgxDbRd/zayn.jpg"
+  },
+  {
+    "id": 10,
+    "artist_name": "Artist J",
+    "image": "https://i.ibb.co/TMgxDbRd/zayn.jpg"
+  },
+  {
+    "id": 11,
+    "artist_name": "Artist K",
+    "image": "https://i.ibb.co/TMgxDbRd/zayn.jpg"
+  },
+  {
+    "id": 12,
+    "artist_name": "Artist L",
+    "image": "https://i.ibb.co/TMgxDbRd/zayn.jpg"
+  }
+]
