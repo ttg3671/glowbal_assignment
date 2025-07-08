@@ -12,7 +12,8 @@
     ],
     "logo_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/black-white-city.jpg",
     "bg_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1421789665209-c9b2a435e3dc.jpg",
-    "date": "2025-07-07",
+    "views": 12500,
+    "duration": "03:45",
     "artists": [
       {
         "artist_id": 1,
@@ -37,7 +38,8 @@
     ],
     "logo_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/black-white-city.jpg",
     "bg_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1421789665209-c9b2a435e3dc.jpg",
-    "date": "2025-07-06",
+    "views": 8900,
+    "duration": "04:12",
     "artists": [
       {
         "artist_id": 3,
@@ -58,7 +60,8 @@
     ],
     "logo_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/black-white-city.jpg",
     "bg_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1421789665209-c9b2a435e3dc.jpg",
-    "date": "2025-07-05",
+    "views": 15300,
+    "duration": "02:58",
     "artists": [
       {
         "artist_id": 4,
@@ -83,7 +86,8 @@
     ],
     "logo_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/black-white-city.jpg",
     "bg_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1421789665209-c9b2a435e3dc.jpg",
-    "date": "2025-07-04",
+    "views": 6200,
+    "duration": "03:30",
     "artists": [
       {
         "artist_id": 6,
@@ -104,7 +108,8 @@
     ],
     "logo_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/black-white-city.jpg",
     "bg_img": "https://raw.githubusercontent.com/ServiceStack/images/master/hero/photo-1421789665209-c9b2a435e3dc.jpg",
-    "date": "2025-07-03",
+    "views": 10900,
+    "duration": "04:00",
     "artists": [
       {
         "artist_id": 7,
